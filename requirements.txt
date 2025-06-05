@@ -2,4 +2,5 @@ strands-agents
 strands-agents[openai]
 strands-agents-tools
 notebook
+tiktoken
 PyPDF2
